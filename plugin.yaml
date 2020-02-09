@@ -1,0 +1,12 @@
+game: "DCS World"
+api: 1
+steamID: 223750
+uid: com.thegreatcabbage.dcs
+author: TheGreatCabbage
+pluginDirectory: "dcsworld"
+
+graphicsConfig: TODO
+
+gameDirectory: "DCSWorld"
+verificationPaths:
+  - bin/DCS.exe
