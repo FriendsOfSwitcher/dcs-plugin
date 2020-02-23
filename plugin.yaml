@@ -3,7 +3,9 @@ api: 1
 steamID: 223750
 uid: com.thegreatcabbage.dcs
 author: TheGreatCabbage
-pluginDirectory: "dcsworld"
+packageName: "dcsworld"
+features:
+  - graphics
 
 graphicsConfig: TODO
 
