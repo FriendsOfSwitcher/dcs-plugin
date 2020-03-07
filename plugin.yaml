@@ -6,8 +6,18 @@ author: TheGreatCabbage
 packageName: "dcsworld"
 features:
   - graphics
+  - keymaps
+  - saves
 
-graphicsConfig: TODO
+graphicsConfig:
+  - C:\Users\$!USERNAME!$\Saved Games\DCS\Config\options.lua
+  - C:\Users\$!USERNAME!$\Saved Games\DCS.OpenBeta\Config\options.lua
+keymapConfig:
+  - C:\Users\$!USERNAME!$\Saved Games\DCS\Config\Input
+  - C:\Users\$!USERNAME!$\Saved Games\DCS.OpenBeta\Config\Input
+savesFolder:
+  - C:\Users\$!USERNAME!$\Saved Games\DCS\Missions\Campaigns
+  - C:\Users\$!USERNAME!$\Saved Games\DCS.OpenBeta\Missions\Campaigns
 
 gameDirectory: "DCSWorld"
 verificationPaths:
